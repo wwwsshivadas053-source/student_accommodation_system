@@ -451,6 +451,7 @@ Feel free to modify and enhance it for academic or personal use.
 **Prajwal T.S.**
 
 GitHub: https://github.com/yourusername
+LinkedIn: https://www.linkedin.com/in/prajwal-t-s-354a57359
 
 ---
 
